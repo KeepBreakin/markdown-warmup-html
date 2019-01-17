@@ -1,0 +1,23 @@
+h1 {
+    color: #000000;
+    border-style: solid;
+    text-align: center;
+   
+}
+
+.vraag {
+    color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: bottom;
+    border-color: red;
+}
+
+body{
+    background-color: #b4b4b4;
+
+}
+
+ul{
+    list-style-type: square;
+}
+
